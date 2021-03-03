@@ -29,6 +29,7 @@
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
 <br/><br/>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavmaharana800@gmail.com)](mailto:abhinavmaharana800@gmail.com)
 
 
 
