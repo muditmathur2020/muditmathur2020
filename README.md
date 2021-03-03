@@ -25,7 +25,14 @@
 <a href="https://www.hackerrank.com/RA1811030010100/">
   <img align="left" alt="Mudit Mathur HackerRank" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mm7692@srmist.edu.in)](mailto:mm7692@srmist.edu.in)
+
+<p align='center'>
+  💻 My workspace<br/><br/>
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  
+</p>
 
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
@@ -36,4 +43,4 @@
 
 <!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
 
-![ViewCount](https://views.whatilearened.today/views/github/coderjojo/views.svg)
+![ViewCount](https://views.whatilearened.today/views/github/muditmathur2020/views.svg)
