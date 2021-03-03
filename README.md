@@ -25,11 +25,12 @@
 <a href="https://www.hackerrank.com/RA1811030010100/">
   <img align="left" alt="Mudit Mathur HackerRank" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
 </a>
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mm7692@srmist.edu.in)](mailto:mm7692@srmist.edu.in)
+
 <p align="center">
 <!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
 </p>
 <br/><br/>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhinavmaharana800@gmail.com)](mailto:abhinavmaharana800@gmail.com)
 
 
 
