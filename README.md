@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br>
   <samp>
-    I'm <a href="https://www.linkedin.com/in/mudit-mathur99/">Mudit Mathur</a> currently a Third Year CSE student at <a href="https://www.srmist.edu.in/">@SRM :school: </a> and aspiring software developer:computer:. Interested in working on Machine Learning, Python, Java and currently learning about Data Science. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm <a href="https://www.linkedin.com/in/mudit-mathur99/">Mudit Mathur</a> currently a Final Year CSE student at <a href="https://www.srmist.edu.in/">@SRM :school: </a> and working as Data Scientist at World's Largest Brewer - AB InBev. Interested in working on Machine Learning, MLOps, Web Development, Java(DSA). Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
@@ -30,10 +30,6 @@
 <a href="https://www.linkedin.com/in/mudit-mathur99/">
   <img align="left" alt="Mudit Mathur Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
-<a href="https://www.hackerrank.com/RA1811030010100/">
-  <img align="left" alt="Mudit Mathur HackerRank" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/medium.svg" />
-</a>
-
 
 
 <p align="center">
