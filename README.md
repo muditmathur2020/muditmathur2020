@@ -1,44 +1,8 @@
+### Hello there 👋
 
-## Heyo :wave: Devs, 
+- 🔭 I’m Data Science Intern @ AnheuserBusch-InBev
+- 🌱 Experience with Machine Learning, Statistics, ML-Ops, DevOps  
+- 👯 I’m looking to collaborate on ...Anything related to Machine learning and Cloud (Azure, AWS)
+- 📫 How to reach me: ...visit - https://www.linkedin.com/in/mudit-mathur99/
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
-  <br><br>
-  <samp>
-    I'm <a href="https://www.linkedin.com/in/mudit-mathur99/">Mudit Mathur</a> currently a Final Year CSE student at <a href="https://www.srmist.edu.in/">@SRM :school: </a> and working as Data Scientist at World's Largest Brewer - AB InBev. Interested in working on Machine Learning, MLOps, Web Development, Java(DSA). Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
-  </samp>
-</p>
-
-<p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/intel-core%20i7%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  
-</p>
-
-### Programming Languages  :rocket:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/java.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/python.svg" width=60> |
-|:---:|:---:|:---:|
-
-
-### Tools :fire:
-|<img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/vscode.png" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" width=60> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/intellij.png" width=60> |
-|:---:|:---:|:---:|
-
-### Connect with me :smiley:
-<a href="https://www.linkedin.com/in/mudit-mathur99/">
-  <img align="left" alt="Mudit Mathur Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
-</a>
-
-
-<p align="center">
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
-</p>
-<br/><br/>
-
-
-
-<!--  ![visitors](https://visitor-badge.glitch.me/badge?page_id=coderjojo/coderjojo) -->
-
-![ViewCount](https://views.whatilearened.today/views/github/muditmathur2020/views.svg)
+Thank you!
